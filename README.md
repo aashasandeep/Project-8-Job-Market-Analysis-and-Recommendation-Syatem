@@ -1,3 +1,12 @@
+![pro-8 Bubble plot of keywords correlation with salary](https://github.com/user-attachments/assets/b06ec87b-5d1e-4e20-bb8a-09ed054c873f)
+![pro-8 Scatter plot for Top 20 keywords correlated with salary](https://github.com/user-attachments/assets/28483386-53bb-4dcc-9ab7-dfbd1839cb2a)
+![pro-8 Top Emerging job titles over time](https://github.com/user-attachments/assets/75f55e22-904a-4f89-b4ca-daa6e0fa62cc)
+![pro-8 Demand forcast for legal advice needed in the us](https://github.com/user-attachments/assets/ea93ded3-8756-4c61-94a1-e82894577be9)
+![pro-8 Demand forcast for ad agency looking for 1 -min video editing support](https://github.com/user-attachments/assets/282e79ee-09b6-492f-80e6-87155bc2c532)
+![pro-8 Number of postings ](https://github.com/user-attachments/assets/d907e213-0eca-4633-920d-06bfeb23218e)
+![pro-8 future jobs market treands](https://github.com/user-attachments/assets/b487d88c-3e51-4524-bc33-b32732cbd933)
+![pro-8 Top 20 keywords correlated with salary](https://github.com/user-attachments/assets/80315497-6678-4be8-9706-bb2760c2a655)
+![pro-8 map pic](https://github.com/user-attachments/assets/519bdd56-a367-4caf-891e-e8e11aa70ede)
 # Project-8-Job-Market-Analysis-and-Recommendation-Syatem
 Project-8 Job Market Analysis and Recommendation System
 # Job Market Analysis and Recommendation System
